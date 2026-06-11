@@ -1,0 +1,11 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+supabase==2.4.3
+networkx==3.3
+openpyxl==3.1.2
+python-multipart==0.0.9
+pandas==2.2.2
+pydantic==2.7.1
+python-dotenv==1.0.1
+reportlab==4.1.0
+xlsxwriter==3.2.0
